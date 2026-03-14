@@ -1,4 +1,4 @@
-CalcLcm. PHP Tutorials. Simple Input/Output. Algorithms. Console Application. 
+CalcLcm. PHP Tutorials. Simple Input/Output. Algorithms. Console Application.
 A console application in the PHP programming language. 
 The program does the following:
   1. Prompts the user for two integers whose greatest common divisor needs to be found.
